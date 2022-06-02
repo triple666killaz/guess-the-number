@@ -1,0 +1,16 @@
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.AssemblyInfo.cs
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.exe
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.deps.json
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.runtimeconfig.json
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.runtimeconfig.dev.json
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.dll
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.pdb
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.csproj.CopyComplete
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.dll
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.pdb
+C:\Users\EZEVIN\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.genruntimeconfig.cache
